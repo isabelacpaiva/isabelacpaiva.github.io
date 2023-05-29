@@ -1,0 +1,16 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/pages/projetos/projeto2.html",
+      "/pages/projetos/projeto1.html"
+    ]
+  },
+  {
+    "listing": "/pages/projetos.html",
+    "items": [
+      "/pages/projetos/projeto2.html",
+      "/pages/projetos/projeto1.html"
+    ]
+  }
+]
